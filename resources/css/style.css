@@ -9,3 +9,9 @@ header {
     font-size: 50px;
     color: #fff;
 }
+
+/* call to action */
+.link--cta {
+    font-size: 16px;
+    color: aquamarine
+}
