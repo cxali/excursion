@@ -34,3 +34,9 @@ footer {
     text-align: right;
     color: gray;
 }
+
+/* IMAGES */
+img {
+    max-width: 100%;
+    height: auto;
+}
