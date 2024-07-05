@@ -4,10 +4,23 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* HEADINGS */
 header {
     font-weight: normal;
     font-size: 50px;
     color: #fff;
+}
+
+.header--secondary {
+    font-weight: 300;
+    font-size: 42px;
+    color: #fff;
+}
+
+/* PARAGRAPH */
+p {
+    font-size: 21px;
+    color: gray;
 }
 
 /* call to action */
